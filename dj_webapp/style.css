@@ -1,0 +1,32 @@
+body{
+    background-position:initial;
+    background-size: cover;
+}
+
+.heading{
+    margin-top: 0px;
+    width: 100%;
+    font-size: 30px;
+    color: midnightblue;
+}
+
+.note{
+    font-size: 20px;
+}
+
+.left_gif{
+    float: left;
+    width: 300px;
+    height: 250px;
+}
+
+.right_gif{
+    float: right;
+    width: 300px;
+    height: 250px;
+}
+
+.song{
+    font-size: 20px;
+    color: midnightblue;
+}
